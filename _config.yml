@@ -18,8 +18,8 @@ email: briancaffey2010@gmail.com
 description: This is a Jekyll blog that I made for showing how to set up a Jekyll blog
 baseurl: "jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @briancaffey
-github_username:  @briancaffey
+twitter_username: briancaffey
+github_username:  briancaffey
 
 # Build settings
 markdown: kramdown
