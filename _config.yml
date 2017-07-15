@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Brian's Other Website
+tagline:      Welcome to my site!
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Brian Caffey
+  url:        http://briancaffey.com
 
 # Gems
 gems:
