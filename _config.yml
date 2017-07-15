@@ -23,8 +23,9 @@ github_username:  briancaffey
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
-gems:
+theme:
+  - jekyll-theme-cayman
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
